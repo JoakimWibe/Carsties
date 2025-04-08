@@ -1,0 +1,49 @@
+# Build results
+bin/
+obj/
+out/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET generated files
+wwwroot/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Dotnet tools
+*.pdb
+*.cache
+*.db
+
+# NuGet
+*.nupkg
+.nuget/
+
+# EF Core Migrations snapshot
+Migrations/*Snapshot.cs
+
+# Other
+*.swp
+*.tmp
+*.bak
+
+# Secrets / environment variables
+.env
+*.secret
+secrets.json
